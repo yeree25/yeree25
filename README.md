@@ -58,18 +58,7 @@
 ### ✍️ Random Dev Quote
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td bgcolor="#1a1b27" style="border-radius: 10px; padding: 20px;">
-        <p align="left" style="color: #79dafa; font-family: 'Courier New', Courier, monospace; font-size: 18px;">
-          “If there are 5 successful people, be ONE of them”
-        </p>
-        <p align="right" style="color: #ff79c6; font-family: 'Poppins', sans-serif; font-weight: bold;">
-          - Yeremia Purba
-        </p>
-      </td>
-    </tr>
-  </table>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=If%20there%20are%205%20successful%20people,%20be%20ONE%20of%20them&author=Yeremia%20Purba" />
 </div>
 
 <br clear="both">
