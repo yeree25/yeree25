@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+![](github-header-banner.png)
+
+<h2 align="left">Hi 👋! My name is Yeremia and I'm a human from Selayang</h2>
 
 ###
 
