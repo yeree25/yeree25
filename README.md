@@ -1,4 +1,4 @@
-![](github-header-banner)
+![header](github-header-banner.png)
 
 <h2 align="left">Hi 👋! My name is Yeremia and I'm a human from Selayang</h2>
 
